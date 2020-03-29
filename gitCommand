@@ -4,5 +4,6 @@ git status #檢視目前所有檔案的更改紀錄
 git config --global --list  #檢視global內的所有author  
 git config --global user.name  #在global的設定檔內新增author  
 git config --global user.email  #在global的設定檔內新增author的email  
+git add xx #將xx檔案放入準備commit的階段  
 git commit -m ""  #提交一個變更並且下註解  
 git log  #檢視所有變動的紀錄  
